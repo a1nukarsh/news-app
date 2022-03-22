@@ -1,9 +1,9 @@
 {
     "status": "ok",
     "totalResults": 663,
-    -"articles": [
-    -{
-    -"source": {
+    "articles": [
+    {
+    "source": {
     "id": null,
     "name": "New York Times"
     },
@@ -15,8 +15,8 @@
     "publishedAt": "2022-03-20T11:07:53Z",
     "content": "YEREVAN, Armenia At the Lumen cafe in the Armenian capital, Russians arrive as soon as the doors open, ordering specialty coffees, opening up their sleek Apple laptops and trying to navigate a dwindl… [+10979 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "New York Times"
     },
@@ -28,8 +28,8 @@
     "publishedAt": "2022-03-20T14:29:42Z",
     "content": "YEREVAN, Armenia At the Lumen cafe in the Armenian capital, Russians arrive as soon as the doors open, ordering specialty coffees, opening up their sleek Apple laptops and trying to navigate a dwindl… [+10561 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": "reuters",
     "name": "Reuters"
     },
@@ -41,8 +41,8 @@
     "publishedAt": "2022-03-20T13:30:00Z",
     "content": "March 20 (Reuters) - Saudi Arabian stocks ended higher on Sunday after full-year profit from state oil producer Saudi Aramco (2222.SE) more than doubled to beat forecasts while other Gulf markets wer… [+1963 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "The Guardian"
     },
@@ -54,8 +54,8 @@
     "publishedAt": "2022-03-20T09:30:53Z",
     "content": "Top Boy | NetflixHolding (ITV) | ITV HubWeCrashed | AppleTV+Ukraine: Should We Do More? (Channel 4) | All 4\r\nLike all great shows about drug-dealing, Top Boy set on an east London housing estate coul… [+7572 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "The Guardian"
     },
@@ -67,8 +67,8 @@
     "publishedAt": "2022-03-20T12:00:56Z",
     "content": "Mention school dinners to anyone and you will be met with either groans of disgust or moans of delight. For some, the phrase evokes memories of comfort: shepherds pie, cheese whirl, jam roly-poly and… [+8017 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "MacRumors"
     },
@@ -80,8 +80,8 @@
     "publishedAt": "2022-03-20T12:40:32Z",
     "content": "Apple this week released an update for Boot Camp, its solution for running Windows on Intel-based Macs, to support the newly-released Studio Display.\r\nBoot Camp Update 6.1.17, released to the public … [+1059 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": "business-insider",
     "name": "Business Insider"
     },
@@ -93,8 +93,8 @@
     "publishedAt": "2022-03-20T10:17:48Z",
     "content": "A former Apple employee has been charged with defrauding the company out of more than $10 million, prosecutors said.\r\nAP reported that Dhirendra Prasad, 52, is accused of having taken kickbacks, stea… [+1501 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "MacRumors"
     },
@@ -106,8 +106,8 @@
     "publishedAt": "2022-03-20T13:05:07Z",
     "content": "The Mac Studio's SSD storage is not soldered in place and could be upgradeable, according to a teardown performed by YouTube channel Max Tech.\r\nIn a detailed teardown video of the new ‌Mac Studio‌, M… [+1141 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "NPR"
     },
@@ -119,8 +119,8 @@
     "publishedAt": "2022-03-20T09:01:07Z",
     "content": "Waves lap ashore near condo buildings in Sunny Isles, Fl., on Aug. 9, 2021. Rising sea levels are seen as one of the potential consequences of climate change and could impact areas such as Florida's … [+4612 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "Slashdot.org"
     },
@@ -132,8 +132,8 @@
     "publishedAt": "2022-03-20T01:34:00Z",
     "content": "Tom's Guide tested a Mac Studio workstation equipped with an M1 Ultra with the Geekbench 5.4 CPU benchmarks \"to get a sense of how effectively it handles single-core and multi-core workflows.\"\"Since … [+3315 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "Prestige Online"
     },
@@ -145,8 +145,8 @@
     "publishedAt": "2022-03-20T05:02:41Z",
     "content": "The iPad Air is arguably the most versatile of Apple’s slates. \r\nIt’s smaller, lighter and more affordable than the iPad Pro. Compared to the Mini, it offers more screen and better performance. The l… [+5201 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "Hackaday"
     },
@@ -158,8 +158,8 @@
     "publishedAt": "2022-03-20T08:00:00Z",
     "content": "[David Lovett] aka Usagi Electric has spent the last several months dissecting a Centurion minicomputer from 1980. His latest update reveals that the restoration has hit several snags, and bootstrapp… [+1977 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": "fox-news",
     "name": "Fox News"
     },
@@ -171,8 +171,8 @@
     "publishedAt": "2022-03-20T13:36:33Z",
     "content": "I have a rule: If an email is going to take me longer than a minute to write, I pick up the phone instead. \r\nFor many things, using our voices is just faster and easier. Thats true for controlling yo… [+7092 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "Eclecticlight.co"
     },
@@ -184,8 +184,8 @@
     "publishedAt": "2022-03-20T16:34:02Z",
     "content": "There’s a clear link between Monterey’s Visual Look Up (VLU) feature and Apple’s proposals last summer to introduce the detection of Child Sexual Abuse Material (CSAM) in images. Don’t misread that i… [+4302 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "Trickster.dev"
     },
@@ -197,8 +197,8 @@
     "publishedAt": "2022-03-20T14:58:19Z",
     "content": "HTTP messages are typically are not sent in plaintext in the post-Snowden world. Instead, TLS protocol is used\r\nto provide communications security against tampering and surveillance of communications… [+5673 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": "business-insider",
     "name": "Business Insider"
     },
@@ -210,8 +210,8 @@
     "publishedAt": "2022-03-20T09:37:23Z",
     "content": "Every day, Blaine Bublitz spends hours sifting through emails from users of Gulp.js, an open-source software project he volunteers to maintain that's used by organizations like Microsoft and NASA. \r\n… [+13025 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "Github.io"
     },
@@ -223,8 +223,8 @@
     "publishedAt": "2022-03-20T02:43:17Z",
     "content": "Rust's Unsafe Pointer Types Need An Overhaul\r\nAria Beingessner\r\nMarch 19th, 2022\r\nI think about unsafe pointers in Rust a lot.\r\nI literally wrote the book on unsafe Rust. And the book on pointers in … [+34132 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "9to5Mac"
     },
@@ -236,8 +236,8 @@
     "publishedAt": "2022-03-20T13:33:15Z",
     "content": "Apple just announced the iPad Air 5. With the M1 chip inside of it and an updated USB-C port, it never looked as “Pro” as now. That said, I’m still not convinced it can replace the M1 iPad Pro as the… [+2687 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "9to5Mac"
     },
@@ -249,8 +249,8 @@
     "publishedAt": "2022-03-20T11:40:00Z",
     "content": "The best iPhone 13 cases are all ready and waiting down below. Our yearly roundup of the best iPhone 13 cases has now been updated with some new designs and brands to keep your precious Apple handset… [+16447 chars]"
     },
-    -{
-    -"source": {
+    {
+    "source": {
     "id": null,
     "name": "Android Police"
     },
